@@ -13,7 +13,7 @@ Browse the prompts, copy the ones you need, and paste them into your Claude Proj
 ## Commercial Offerings
 
 While these general-purpose AI agent prompts are free, we offer premium agentic coding setups and configurations for sale. 
-Visit RS42.ai for details regarding our professional coding assistant frameworks.
+Visit [RS42.ai](https://rs42.ai) for details regarding our professional coding assistant frameworks.
 
 ## License
 
